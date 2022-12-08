@@ -1,7 +1,8 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/">Главная</router-link> |
+    <router-link to="/doctor">Врач</router-link> |
+    <router-link to="/patient">Пациент</router-link>
   </nav>
   <router-view/>
 </template>
