@@ -14,6 +14,10 @@ http://localhost:8080/
 
 http://localhost:5000/docs
 
+Пример работы API-запросов
+
+![](https://github.com/itookyourboo/smartmed_system/blob/master/data/fastapi.jpg?raw=true)
+
 ## Задание
 
 Участникам Хакатона необходимо разработать модуль приложения SmartMed (веб/нативная) для мониторинга хронических
